@@ -17,4 +17,4 @@ With filtering capability
 
 ![Filter](images/filter.png)
 
-The Live Coding is available on [Youtube](https://www.youtube.com/channel/UCVPd3h_V_hGjMZ8jNMt939Q)
+The Live Coding is available on [Youtube](https://www.youtube.com/watch?v=gZpsEPv2m4w)
